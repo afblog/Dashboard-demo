@@ -1,4 +1,4 @@
-![cover](cover.png)
+![cover](Dashboard.png)
 
 # Professional Admin Dashboard (Online Version)
 A fully responsive and customizable admin panel with support for both dark and light themes. Designed for performance, personalization, and a seamless user interface.
